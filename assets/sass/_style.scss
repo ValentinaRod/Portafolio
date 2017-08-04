@@ -40,13 +40,43 @@
 .caja_blanca{
 	position:absolute;
 	margin-top: -518px;
-	margin-left: 202px;
+	margin-left: 103px;
 	z-index: 999;
-	width: 883px;
-	height: 519px;
+	width: 1157px;
+	height: 518px;
 	background-color: $celesteClaro1;
-	border-top: 355px solid $celeste3;
-	border-left: 881px solid transparent;
-	border-style: 2px dotted #fff;
+	border-top: 416px solid $celeste3;
+	border-left: 1155px solid transparent;
+	
+
+}
+
+.about__img{
+
+  width: 200px;
+  margin-left:-1052px;
+  margin-top: -210px;
+
+}
+
+.about__text{
+ 
+  width: 500px;
+  font-size: 13px;
+  text-align: justify;
+  margin-left:-500px;
+  margin-top: -300px;
+}
+
+h3{
+  margin-left:-305px;
+  
+}
+
+p{
+ width: 500px;
+  font-size: 13px;
+  text-align: justify;
+  margin-left:-500px; 
 
 }

@@ -8,12 +8,13 @@ ul.abanico {
   z-index: 1000;
   li {
     position: absolute;
-    bottom: 0;
+    bottom: -70px;
     left: 250%;
-    width: 100px;
+    width: 115px;
     height: 300px;
-    background: orange;
-    margin-left: -50px;
+    background: #90caf9;
+    margin-top:100px;
+    margin-left: -308px;
     line-height: 300px;
     text-align: center;
     -moz-transform-origin: top center;
@@ -38,31 +39,31 @@ ul.abanico {
       opacity: 0;
     }
     &:nth-of-type(1) {
-      background: green;
-      -moz-transform: rotate(45deg);
-      -webkit-transform: rotate(45deg);
-      transform: rotate(45deg);
+    background:#90caf9;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
     }
     &:nth-of-type(2) {
-      background: blue;
-      -moz-transform: rotate(22deg);
-      -webkit-transform: rotate(22deg);
-      transform: rotate(22deg);
+    background: #e3f2fd;
+    -moz-transform: rotate(22deg);
+    -webkit-transform: rotate(22deg);
+    transform: rotate(22deg);
     }
     &:nth-of-type(3) {
-      background: purple;
+      background:#90caf9;
       -moz-transform: rotate(0deg);
       -webkit-transform: rotate(0deg);
       transform: rotate(0deg);
     }
     &:nth-of-type(4) {
-      background: red;
+      background: #e3f2fd;
       -moz-transform: rotate(-22deg);
       -webkit-transform: rotate(-22deg);
       transform: rotate(-22deg);
     }
     &:nth-of-type(5) {
-      background: orange;
+      background:#90caf9;
       -moz-transform: rotate(-45deg);
       -webkit-transform: rotate(-45deg);
       transform: rotate(-45deg);
