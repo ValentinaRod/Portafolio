@@ -54,7 +54,12 @@
 }
 
 .about__img{
- 
+  
+  height: 100px;
+  -webkit-transform: skew(20deg);
+     -moz-transform: skew(20deg);
+       -o-transform: skew(20deg);
+  background: transparent;
   width: 200px;
   margin-left:-1052px;
   margin-top: -210px;
