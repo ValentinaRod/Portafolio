@@ -27,11 +27,11 @@ gulp.task('webserver', function(){
 			livereload: true,	
 			directoryListing: false,
 			open: true,
-			port:8001
+			port:8000
 	}));
 });
 
 gulp.task('watch', function() {gulp.watch('assets/sass/*.scss', ['style']);
 });
 
-gulp.task('default',['script', 'style', 'webserver', 'watch']);
+gulp.task('default',['script', 'style','webserver', 'watch']);
