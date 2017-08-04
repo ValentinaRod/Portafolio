@@ -2,3 +2,7 @@
 $(document).ready(function(){
   $('.slider').slider();
 });
+
+//cajas proyectos------------------------------------>
+
+

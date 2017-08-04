@@ -20257,3 +20257,7 @@ if (jQuery) {
 $(document).ready(function(){
   $('.slider').slider();
 });
+
+//cajas proyectos------------------------------------>
+
+
