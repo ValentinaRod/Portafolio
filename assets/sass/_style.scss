@@ -48,26 +48,23 @@
 	width: 1157px;
 	height: 518px;
 	background-color: $celesteClaro1;
-	border-top: 416px solid $celeste;
+	border-top: 272px solid $celeste;
 	border-left: 1155px solid transparent;
-  box-shadow: 5px 5px 10px #999;
-}
+  }
 
 .about__img{
-  
-  height: 100px;
-  -webkit-transform: skew(20deg);
-     -moz-transform: skew(20deg);
-       -o-transform: skew(20deg);
-  background: transparent;
   width: 200px;
   margin-left:-1052px;
   margin-top: -210px;
 }
 
-.about__text{
+.perfil{
+  margin-left:708px;
+  margin-top:50px;
+}
 
-  width: 300px;
+.about__text{
+  width: 500px;
   font-size: 13px;
   text-align: justify;
   margin-left:-411px;
@@ -75,19 +72,20 @@
 }
 
 h3{
-  margin-left:-305px;
-  margin-top:-320px;
+  margin-left:-363px;
+  margin-top:-266px;
+  
   
 }
 
 p{
-
- width: 300px;
+  position: absolute;
+  top:-40px;
   font-size: 13px;
   text-align: justify;
-  margin-left: -410px;
+  margin-left: -840px;
   margin-top: 50px; 
-
+  width:407px;
 }
 /*Secton WORKS---------------------------------------------------------------------------*/
 .Works{
