@@ -48,7 +48,7 @@
 	width: 1157px;
 	height: 518px;
 	background-color: $celesteClaro1;
-	border-top: 416px solid $celeste3;
+	border-top: 416px solid $celeste;
 	border-left: 1155px solid transparent;
   box-shadow: 5px 5px 10px #999;
 }
@@ -98,12 +98,32 @@ p{
 
 }
 
-.medium{
+.work_uno{
   width: 460px;
   margin-top: 100px;
   color: $plomo;
   }
-.small{
+.work_dos{
   width: 300px;
   color: $plomo;
+  margin-top: 8px;
+  
+}
+.work_tres{
+  width: 300px;
+  color: $plomo;
+  margin-top: 8px;
+ }
+
+.work_cuatro{
+  width: 460px;
+  margin-top: 100px;
+  color: $plomo;
+}
+
+.work_cinco{
+  width: 460px;
+  margin-top: 100px;
+  color: $plomo;
+  margin-top: 15px;
 }
