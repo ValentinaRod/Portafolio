@@ -129,3 +129,6 @@ $(window).scroll(function() {
 });
 });  
 
+//social networks-------------------------------------------------------->
+//$(document).ready(function() {
+ 
