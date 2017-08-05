@@ -1,4 +1,4 @@
-*n{
+*{
   box-sizing: border-box;
 }
 
@@ -42,54 +42,24 @@
 .caja_blanca{
   position:absolute;
   opacity:0.9;
-  margin-top: -518px;
-  margin-left: 103px;
+  margin-top: -578px;
+  margin-left: 65px;
   z-index: 999;
   width: 1157px;
-  height: 518px;
-  background-color: $celesteClaro1;
-  border-top: 272px solid $celeste;
-  border-left: 1155px solid transparent;
+  height: 578px;
+  background-color:#F2F2F2;
+  border-top: 330px solid #fff;
+  border-left: 1140px solid transparent;
   }
+//section about me --------------------------------------------->
 
-.about__img{
-  width: 200px;
-  margin-left:-1052px;
-  margin-top: -210px;
-}
 
-.perfil{
-  margin-left:708px;
-  margin-top:50px;
-}
 
-.about__text{
-  width: 500px;
-  font-size: 13px;
-  text-align: justify;
-  margin-left:-411px;
-  margin-top: 40px;
-}
 
-h3{
-  margin-left:-363px;
-  margin-top:-266px;
-  
-  
-}
-
-p{
-  position: absolute;
-  top:-40px;
-  font-size: 13px;
-  text-align: justify;
-  margin-left: -840px;
-  margin-top: 50px; 
-  width:407px;
-}
 /*Secton WORKS---------------------------------------------------------------------------*/
 .Works{
-  background-color: $celesteClaro1;
+
+  background-color: $field-color;
  
  }
 

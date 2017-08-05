@@ -34,4 +34,4 @@ gulp.task('webserver', function(){
 gulp.task('watch', function() {gulp.watch('assets/sass/*.scss', ['style']);
 });
 
-gulp.task('default',['script', 'style','webserver', 'watch']);
+gulp.task('default',['script', 'style', 'watch']);
