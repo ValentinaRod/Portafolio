@@ -1,16 +1,10 @@
-//animacion-fox
-.herramientas{
-	height: 500px !important;
-}
-
-
 .fox{
 	width: 215px;
 	height: 275px;
 	display: block;
 	position: relative;
-	top: 350px;
-	left:75px;
+	top: 450px;
+	left:110px;
 	margin: 0 auto;
 	-webkit-transform: translate(-50%,-50%);
 	        transform: translate(-50%,-50%);
@@ -181,24 +175,27 @@ a.author{
   }
 }
 
-.conocimientos{
-	position:absolute;
-	width: 400px;
+//animacion-fox
+.herramientas{
+	height: 500px;
 }
 
+
 .conoci_text{
-	height: 100px;
+	
 	font-size: 30px;
-	margin-left: -10px;
+	position:relative;
+	top: 20px;
+	margin-left: -97px;
 	text-align: center;
 
 }
 
 .conoci_iconos{
-	font-size: 148px;
-	border: 1px solid #A4A4A4;
-	margin-top: -66px;
-	margin-left:-55px;
+	font-size: 103px;
+	
+	margin-top: 13px;
+	margin-left:-156px;
 	
 	
 }
@@ -210,7 +207,7 @@ a.author{
 }
 
 .utilidades_text{
-	height: 100px;
+	
 	font-size: 30px;
 	margin-left: 150px;
 	
@@ -218,9 +215,11 @@ a.author{
 
 .utilidades_iconos{
 	font-size: 127px;
-	border: 1px solid #A4A4A4;
-	margin-top: -66px;
-	margin-left:-65px;
+	
+	margin-top: 148px;
+	margin-left:99px;
+	position:relative;
+	left: -80px;
 	
 }
 
