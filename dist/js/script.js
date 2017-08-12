@@ -20341,5 +20341,10 @@ $(window).scroll(function() {
 });
 });  
 
-//social networks-------------------------------------------------------->
-
+//efectos smoove para clases------------------------------------------------------->
+$('.bio').smoove({
+     offset  : '100%',
+    // moveX is overridden to -200px for ".bar" object
+    moveX   : '100px',
+    moveY   : '100px',
+});

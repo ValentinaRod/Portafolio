@@ -93,3 +93,10 @@ $('.bio').smoove({
     moveX   : '100px',
     moveY   : '100px',
 });
+
+//efecto portafolio--------------------------------------------->
+$(".hover").mouseleave(
+  function () {
+    $(this).removeClass("hover");
+  }
+);
